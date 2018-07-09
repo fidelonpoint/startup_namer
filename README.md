@@ -7,3 +7,6 @@ A new Flutter project.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 # startup_namer
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
